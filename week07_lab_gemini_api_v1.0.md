@@ -972,6 +972,13 @@ class ListingDraft {
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+<img width="442" height="1021" alt="image" src="https://github.com/user-attachments/assets/f9588728-3e23-490f-9b63-da517130e766" />
+
+<img width="442" height="1023" alt="image" src="https://github.com/user-attachments/assets/d91c5db4-83b0-4b94-83e4-7d2dc0d2f683" />
+
+<img width="442" height="1025" alt="image" src="https://github.com/user-attachments/assets/71338773-f4a5-43d5-afff-af1a7cdf8def" />
+
+
 ---
 
 ## ส่วนที่ 5: ออกแบบหน้าจอตรวจทานและแก้ไขก่อนยืนยัน (Human-in-the-loop)
