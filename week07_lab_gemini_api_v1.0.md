@@ -1034,6 +1034,8 @@ class ListingDraft {
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+<img width="430" height="1027" alt="image" src="https://github.com/user-attachments/assets/1582afa6-079c-4125-b026-418d82a0e812" />
+
 ---
 
 
