@@ -514,6 +514,12 @@ flutter run
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+<img width="938" height="697" alt="image" src="https://github.com/user-attachments/assets/4743d934-c476-45dd-a963-283c735b0829" />
+
+<img width="1192" height="657" alt="image" src="https://github.com/user-attachments/assets/dfc748b1-7c41-46f3-a5ff-cabcbb81b218" />
+
+การทดสอบแบบ Prompt ธรรมดา (ไม่ได้เปิด Structured Output):โมเดลตอบกลับมาเป็นข้อความธรรมดา (Plain Text / Markdown) แม้จะมีรูปแบบคล้าย JSON ตามที่สั่งใน Prompt   ข้อจำกัด: ไม่สามารถการันตีความถูกต้องของรูปแบบข้อมูลได้ 100% มีโอกาสเกิดข้อผิดพลาดในการแปลงข้อมูล (jsonDecode) บน Flutter หากโมเดลใส่ข้อความเกริ่นนำ, สรุปท้าย หรือแท็กครอบโค้ด (เช่น json ... )
+การทดสอบแบบเปิดใช้งาน Structured Output (Response Schema):มีการกำหนด Schema ด้วย Visual Editor ชัดเจน (ประกอบด้วยฟิลด์ title, category, และ description เป็นประเภท String ทั้งหมด)โมเดลส่งผลลัพธ์ออกมาเป็น Valid JSON แท้จริงโดยตรง (<> JSON)
 
 ---
 
