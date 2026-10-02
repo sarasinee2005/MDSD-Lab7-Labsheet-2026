@@ -502,6 +502,8 @@ flutter run
 ```text
 บันทึกรูปผลลัพธ์ที่นี่
 ```
+<img width="648" height="697" alt="image" src="https://github.com/user-attachments/assets/fa4289f2-4953-4200-8209-81181f4950aa" />
+
 
 ### ขั้นตอนที่ 1.2: ทดลองเปิดใช้ Structured Output ใน AI Studio
 
