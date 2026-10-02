@@ -547,6 +547,13 @@ flutter run
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+<img width="1307" height="950" alt="image" src="https://github.com/user-attachments/assets/312884db-d870-40a7-a7b5-25de1132e182" />
+
+<img width="880" height="161" alt="image" src="https://github.com/user-attachments/assets/8340f24d-62d4-45ae-bf39-7b188b00d013" />
+
+OpenWeather API ใช้เวลาเพียง 10 วินาที เพราะเป็นการดึงข้อมูลที่มีอยู่แล้วจากฐานข้อมูลซึ่งตอบกลับได้ในเสี้ยววินาที
+
+ส่วน Gemini API ต้องตั้งไว้นานกว่าเป็น 20 วินาที เพื่อเผื่อเวลาให้ระบบ AI คิดและสร้างประโยคใหม่ทีละคำ รวมถึงรองรับข้อมูลที่ซับซ้อนโดยไม่ตัดการเชื่อมต่อก่อน
 
 ---
 
